@@ -9,8 +9,8 @@ A set of consolidated data for the  microgrid of Terre Sainte campus (years 2021
 
 |Type|Provider|Location|Short description|Period|File name|
 |----|------|------|---------------|:-----:|-------|
-|Electricity demand|EDF-SEI (DSO)|Distribution transformer P9729|Aggregated electricity demand Dpt.1, 2, 3, 4 and Enerpos|01/01/2021-31/12/2022|IUT_load.txt(column5)|
-|Electricity demand|EDF-SEI (DSO)|Distribution transformer P9856|Aggregated electricity demand ESIROI and SEAS-OI|01/01/2021-31/12/2022|ESIROI_SEASOI.txt|
+|Electricity demand|EDF-SEI (DSO)|Distribution transformer P9729|Aggregated electricity demand Dpt.1, 2, 3, 4 and Enerpos|01/01/2021 - 31/12/2022|IUT_load.txt(column5)|
+|Electricity demand|EDF-SEI (DSO)|Distribution transformer P9856|Aggregated electricity demand ESIROI and SEAS-OI|01/01/2021 - 31/12/2022|ESIROI_SEASOI.txt|
 |Electricity demand|EDF-SEI (DSO)|Distribution transformer P9539|Electricity demand student residences and restaurant|01/01/2021 - 31/12/2022|CROUS_load.txt|
 |Electricity demand|UR|General low-voltage switchboard Dpt.1, 2, 3, 4 and Enerpos|Electricity demand Dpt.1 and 2|01/01/2021 - 31/12/2022|IUT_load.txt (column2)|
 |Electricity demand|UR|General low-voltage switchboard Dpt.1, 2, 3, 4 and Enerpos|Electricity demand Dpt. 3 and 4|01/01/2021 - 31/12/2022|IUT_load.txt(column3)|
