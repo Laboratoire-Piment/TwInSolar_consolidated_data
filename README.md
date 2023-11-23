@@ -5,7 +5,7 @@
 
 <a href='https://twinsolar.eu/'>https://twinsolar.eu/</a>
 
-A set of consolidated data for the  microgrid of Terre Sainte campus (years 2021 and 2022) prepared with the project TwInSolar.
+A set of consolidated data for the  microgrid of Terre Sainte campus (years 2021 and 2022) prepared with the project TwInSolar. Geographical coordinate of the campus: 21°20'S, 55°29'E, 75m, GMT/UTC+4h
 
 |Type|Provider|Location|Short description|Period|File name|
 |----|------|------|---------------|:-----:|-------|
