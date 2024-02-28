@@ -8,10 +8,10 @@ Note: The production of photovoltaic installations is recorded. However, 2 power
 All documents : 
 	datetime: Timestamp, end of recording period
 
-"ESIROI_PV.txt": PV production of the ENERPOS building, in kW. Key figures: Total peak power 46.9kWp, monocrystalline silicon modules, Array 1 over-roof well ventilated (slope 9°, 14° North-East) 21.06 kWp, Array 2 over-roof well ventilated (slope 9°, 194° South-West) 33.696 kWp, commissioning year 2021
+"ESIROI_PV.txt": PV production of the ENERPOS building, in kW. Key figures: Total peak power 49.14kWp, monocrystalline silicon modules, Array 1 over-roof well ventilated (slope 9°, 14° North-East) 18.9 kWp, Array 2 over-roof well ventilated (slope 9°, 194° South-West) 30.24 kWp, commissioning year 2008
 
 
-"ESIROI_PV.txt": PV production of the ESIROI building, in kW. Key figures: Total peak power 99.935 kWp, polycrystalline silicon modules, Array 1 rack mounted (slope 30°, 14° North-East) 67.94 kWp, Array 2 roof mounted (slope 30°, 103° South-East) 31.995 kWp, commissioning year 2008
+"ESIROI_PV.txt": PV production of the ESIROI building, in kW. Key figures: Total peak power 99.935 kWp, polycrystalline silicon modules, Array 1 rack mounted (slope 30°, 14° North-East) 67.94 kWp, Array 2 roof mounted (slope 30°, 103° South-East) 31.995 kWp, commissioning year 2021
 
 "Dpt_1_2_PV.txt": PV production of the Dpt. 1 and 2 buildings, in kW. Key figures: Total peak power 11.385 kWp, polycrystalline silicon modules, Array 1 rack mounted (slope 21°, 0° North) 11.385 kWp, commissioning year 2006
 
